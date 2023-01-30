@@ -14,7 +14,7 @@ Simple program to generate Binaural Rumbling Signal
 ## How to run
  1. Download the **BinauralRumble.m** files
  2. Open in Matlab, Octave or similar interpreter
- 3. Follow the instructions in the console
+ 3. Run and follow the instructions in the console
 
 ## Technologies Used
 - Matlab
